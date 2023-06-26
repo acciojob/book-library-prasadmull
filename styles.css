@@ -2,11 +2,22 @@
 
 .heading{
 	background-color:#ffffff;
+	text-align:center;
 }
 body{
 	background-color:#f8f8f8;
 }
 .price{
 	background-color:#2ecc71;
-	margin-top:0px;
+	margin-top:0;
+	text-align:center;
+	color:white;
+	
+}
+.author{
+	margin-bottom:0;
+	margin-top:0
+}
+h1{
+	margin-bottom:0;
 }
