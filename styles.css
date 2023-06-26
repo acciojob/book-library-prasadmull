@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.heading{
+.book-library{
 	background-color:#F1F1F1;
 	text-align:center;
 }
@@ -19,11 +19,11 @@ body{
 	margin-top:0;
 
 }
-h1{
+.name{
 	margin-bottom:0;
 	
 }
-.img{
+.book{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
